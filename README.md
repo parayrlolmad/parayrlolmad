@@ -1,6 +1,6 @@
 # Parviz Abduvahobov
 
-I'm the co-founder of Aithos and a Senior Data/M&E Officer at UNESCO, where I work on data, monitoring and evaluation.
+I'm a Senior Data/M&E Officer at UNESCO, where I work on data, monitoring and evaluation.
 
 I build software and AI agents. My experience at UNESCO and UNICEF spans programme delivery, governance, procurement and working with governments.
 
@@ -25,10 +25,6 @@ I built the product and co-founded it with colleagues who have also worked withi
 A platform helping students explore universities and programmes and navigate the enrolment process.
 
 I built most of the product, including integrations that make Enrola's services available through ChatGPT and Claude using the Model Context Protocol (MCP).
-
-## Currently
-
-I'm building Aithos with Mathieu Colla, exploring how businesses can prepare for and work with AI agents. My work combines product development, customer discovery and partnerships.
 
 ## Connect
 
